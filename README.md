@@ -1,5 +1,3 @@
-# langchain-gemini-agent-tools
-
 # 🤖 LangChain Gemini Agent with Tools
 
 This project demonstrates how to build an **AI Agent using LangChain**, powered by **Google Gemini API** and custom tools.  
